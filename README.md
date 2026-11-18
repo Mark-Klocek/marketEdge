@@ -1,6 +1,6 @@
 ﻿# MarketEdge
 
-MarketEdge is an app being built to compare vig-free sportsbook odds with live prediction and futures market prices and flag and execute positive expected-value (+EV) trades.
+MarketEdge is an app being built to compare vig-free sportsbook odds with live prediction and futures market prices that will flag and execute positive expected-value (+EV) trades.
 
 ## How it works
 
